@@ -100,6 +100,7 @@
   .containerReceipePage {
     width: 90%; /* Adjust width for small devices */
     padding: 10px;
+    flex-direction: column;
   }
 
  
