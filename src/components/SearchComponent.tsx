@@ -57,7 +57,7 @@ const SearchComponent = () => {
        
 
   return (
-    <div style={{margin:'20px auto',  width:'500px', height:40,   }}>
+    <div style={{margin:'20px auto',  width:'60%', height:40,   }}>
     
     <input
     ref={InputRef}

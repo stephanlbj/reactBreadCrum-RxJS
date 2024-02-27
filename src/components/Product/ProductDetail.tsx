@@ -68,7 +68,7 @@ const ProductDetail = ({product}:{product:Recipe}) => {
     </p>
 
 
-    <div style={{display:'flex', flexDirection:'row', alignItems:'center',
+    <div style={{display:'flex', flexDirection:'row', alignItems:'center', flexWrap:'wrap',
                alignContent:'center',width:'60%', margin:'auto',  
                marginTop:'10px', marginBottom:'30px',  paddingTop:'10px',
                 padding:6, gap:20}}>
