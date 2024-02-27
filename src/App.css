@@ -76,3 +76,31 @@
   top: 0;
   padding-right: 10px;
 }
+
+.containerReceipePage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  width: 60%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding-top: 10px;
+  padding: 6px;
+  gap: 20px;
+}
+
+ 
+              
+
+@media only screen and (max-width: 600px) {
+ 
+ 
+  .containerReceipePage {
+    width: 90%; /* Adjust width for small devices */
+    padding: 10px;
+  }
+
+ 
+}
